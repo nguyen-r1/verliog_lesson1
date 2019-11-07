@@ -1,4 +1,5 @@
 //My first project
+//Author: Ryan Q. Nguyen
 
 module demo1(
   input a,
